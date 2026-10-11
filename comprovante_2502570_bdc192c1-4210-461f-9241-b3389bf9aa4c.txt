@@ -1,0 +1,19 @@
+════════════════════════════════════════════════════════
+        COMPROVANTE DE ENTREGA - IMPACTA
+════════════════════════════════════════════════════════
+
+  ID de Comprovação: bdc192c1-4210-461f-9241-b3389bf9aa4c
+  Data/Hora:         10/10/2026, 23:50:54
+  Aluno:             Marcos Henrique Petruci
+  RA:                2502570
+  Atividade:         AST10
+  Status:            Atrasado (1 dia(s))
+
+────────────────────────────────────────────────────────
+  Referência: https://github.com/Petrucii/mutmut
+────────────────────────────────────────────────────────
+
+  Este documento é a prova oficial de sua entrega eletrônica.
+  Autenticação: bdc192c1-4210-461f-9241-b3389bf9aa4c-2502570
+
+════════════════════════════════════════════════════════
