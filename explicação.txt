@@ -1,0 +1,5 @@
+Entendi que ter cobertura alta de testes não garante que eles sejam bons.
+O mutmut muda o código (ex.: >= vira >) e roda os testes: se nenhum falhar, o mutante sobreviveu.
+Com valores longe do limite (850, 8000, 300), essas mudanças passavam batido.
+Por isso testei os valores de fronteira: score 700 e 699, renda 5000.00 e 5000.01.
+Assim os mutantes são mortos e a regra de negócio fica bem validada.
